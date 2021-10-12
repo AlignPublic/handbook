@@ -1,4 +1,4 @@
-# Fatgoat Handbook | All Remote Startup
+# Fatgoat Handbook | All Remote Startup Accelerator
 
 # About Us
 
