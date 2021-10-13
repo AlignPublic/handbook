@@ -2,7 +2,7 @@
 layout: default
 title: Align Handbook
 lang: en
-description: All Remote Team
+description: All Remote Team - Everywhere
 ---
 
 ## All Remote Team
